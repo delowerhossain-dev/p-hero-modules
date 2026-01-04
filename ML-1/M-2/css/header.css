@@ -1,0 +1,16 @@
+.artical{
+    border:10px solid teal ;
+    background-color: lightpink;
+    margin: 20px;
+    width: 500px;
+    box-shadow:50px gold ;
+
+}
+.header{
+    height: 1500px;
+    background-color: lightgreen;
+    background-image: url('WhatsApp\ Image\ 2026-01-01\ at\ 7.26.46\ PM.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
